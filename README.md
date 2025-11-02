@@ -49,7 +49,7 @@ Developed in Unity for Android.
 
 #### ⚔️ 3D RPG A third-person RPG prototype featuring basic combat, movement, and an early inventory system. 
 <p align="center">
-  <a href="https://github.com/TIGU-h/Mini3DRPG" target="_blank">
+  <a href="https://github.com/TIGU-h/TH1" target="_blank">
     <img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://youtu.be/QdU7WAkmksI" target="_blank">
