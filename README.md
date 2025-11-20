@@ -27,7 +27,7 @@ Currently improving my skills in **C#**, **Unity**, and **game design**.
 
 
 
-### 🚀 Projects
+### 🚀 Current Projects
 
 #### 🦊 GeoFox
 A mobile action game where the main character defends herself from waves of monsters.  
