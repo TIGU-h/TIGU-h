@@ -13,8 +13,8 @@ Currently improving my skills in **C#**, **Unity**, and **game design**.
 
 
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-chernysh-4962152a0/)
-[![Unity Play](https://img.shields.io/badge/Unity_Play-000000?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/TIGU-h)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tigu-h/)
+[![Unity Play](https://img.shields.io/badge/Unity_Play-000000?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/en/user/d7a86357-635e-4a0c-af9c-d49a6cd18004)
 
 
 
