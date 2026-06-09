@@ -30,14 +30,6 @@ Currently improving my skills in **C#**, **Unity**, and **game design**.
 
 </h2>
 
-<p align="center">
-  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=TIGU-h&theme=dark&hide_border=false" />
-  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" />
-</p>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TIGU-h&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -55,7 +47,8 @@ Currently improving my skills in **C#**, **Unity**, and **game design**.
 
 
 
-### 🚀 Current Projects
+
+#### 🚀 Projects Worth Exploring
 
 #### 🦊 GeoFox
 A mobile action game where the main character defends herself from waves of monsters.  
@@ -75,7 +68,8 @@ Developed in Unity for Android.
   <img src="geofox.png" width="400"/>
 </p>
 
-#### ⚔️ 3D RPG A third-person RPG prototype featuring basic combat, movement, and an early inventory system. 
+#### ⚔️ 3D RPG 
+A third-person RPG prototype featuring basic combat, movement, and an early inventory system. 
 <p align="center">
   <a href="https://github.com/TIGU-h/TH1" target="_blank">
     <img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github"/>
